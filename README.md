@@ -1,4 +1,5 @@
-## Project Overview and Insights
+# How to Develop a Popular App?
+## Google PlayStore Analysis and Popularity Prediction
 
 ### 1. Description of the project goals
 In this project, we investigate the different variables of Apps on Google Play Store that affect the application and the top 100 most relevant user reviews. We attempt to use our analysis to answer the following questions:
